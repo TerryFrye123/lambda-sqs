@@ -48,5 +48,3 @@ Resources:
       Tags:
         - Key: keyname
           Value: value
-
-./src/lambda-sqs/lambda-sqs.csproj
